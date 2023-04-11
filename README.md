@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @romyjungchhetri
-- 👀 I’m interested in Web Development, Visual Design, Wireframing, Prototyping in short UX Design.
+- 👀 Enthusiast UI/UX Designer.
 - 🌱 I’m a Bsc. (Hons) Computing Graduated Student.
 - 💞️ I’m looking to collaborate on UX Design.
 - 📫 How to reach me?
-Instagram - https://www.instagram.com/romy.jung.chhetri/
 LinkedIn - www.linkedin.com/in/romy-khatri
 
 <!---
