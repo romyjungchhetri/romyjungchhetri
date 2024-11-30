@@ -9,7 +9,7 @@ A passionate UI/UX Designer dedicated to crafting user-centric, intuitive, and a
 - Interested in social good initiatives and projects that make a meaningful impact.
 
 - 📫 How to reach me?
-LinkedIn - www.linkedin.com/in/romy-khatri
+LinkedIn - https://www.linkedin.com/in/romykhatri
 
 <!---
 romyjungchhetri/romyjungchhetri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
