@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @romyjungchhetri
-- 👀 Enthusiast UI/UX Designer.
-- 🌱 I’m a Bsc. (Hons) Computing Graduated Student.
-- 💞️ I’m looking to collaborate on UX Design.
+Hello, I’m Romy Khatri.
+A passionate UI/UX Designer dedicated to crafting user-centric, intuitive, and aesthetically pleasing digital experiences. I aim to blend creativity with functionality to create designs that resonate with users.
+  
+🛠️ Skills and Expertise
+- 💻 Designing user-centric interfaces using tools like Figma and Adobe XD.
+  
+🤝 Collaboration Opportunities
+- Open to collaborating on UI Design projects.
+- Interested in social good initiatives and projects that make a meaningful impact.
+
 - 📫 How to reach me?
 LinkedIn - www.linkedin.com/in/romy-khatri
 
